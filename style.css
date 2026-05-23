@@ -32,6 +32,9 @@ nav ul {
     padding-left: 20px;
 }
 
+nav li {
+    margin-bottom: 8px;
+}
 main {
     margin-top: 20px;
 }
